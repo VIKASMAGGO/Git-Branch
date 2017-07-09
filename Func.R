@@ -1,6 +1,6 @@
 ## Sum 2 numbers 
 
-sum_func <- function(a,b){
+sum_func <- function(a,b,c){
     return(a+b+c)
 }
 
