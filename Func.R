@@ -1,4 +1,4 @@
-## Sum 2 numbers 
+## Sum 3 numbers 
 
 sum_func <- function(a,b,c){
     return(a+b+c)
